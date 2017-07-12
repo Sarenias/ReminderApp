@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReminderGame", "Assembly-CSharp.csproj", "{95AE63D0-2048-29B1-67DD-8201D0D907F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReminderGame", "Assembly-CSharp-Editor.csproj", "{A2BDC7AF-5D42-DD5F-813B-C8E00471C580}"
+EndProject
+Project("{206D0F30-E13C-D8B5-11C9-8583C7DCC40C}") = "ReminderGame", "Assembly-UnityScript-Editor-firstpass.unityproj", "{30418105-E6B4-4F2A-852D-CDE0B68B9533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AE63D0-2048-29B1-67DD-8201D0D907F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AE63D0-2048-29B1-67DD-8201D0D907F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AE63D0-2048-29B1-67DD-8201D0D907F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AE63D0-2048-29B1-67DD-8201D0D907F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BDC7AF-5D42-DD5F-813B-C8E00471C580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BDC7AF-5D42-DD5F-813B-C8E00471C580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BDC7AF-5D42-DD5F-813B-C8E00471C580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BDC7AF-5D42-DD5F-813B-C8E00471C580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30418105-E6B4-4F2A-852D-CDE0B68B9533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30418105-E6B4-4F2A-852D-CDE0B68B9533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30418105-E6B4-4F2A-852D-CDE0B68B9533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30418105-E6B4-4F2A-852D-CDE0B68B9533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
